@@ -21,8 +21,24 @@
                     "createdAt": "2023-09-08T20:33:51.091Z",
                     "updatedAt": "2023-09-08T20:33:51.091Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/64fb81ebf64fd727fe775fbd/assets/64fb852e50f41244c54ad517?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230912%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230912T165423Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3777bae1265921ccede5fca9487bbe3430e6a3df78e717475b7f48d43dce1324d2107665eb3ad3975c1bf9bc60543784ce2f4fd079396e4c278d4cccf04124dcd2e3e755a434589ea6b804abf8fbc460e937d00b5422ed76b37385509bb498cca5a69f8eca811a7407dc11cb7e41ece00ff14f44d150c63fdd9413a1b0acfbd07dea658b0bc8ef33b1da3c076d5f0fb2c773ce7a1b39bf968d1b345b848f40488fc917a744325fcd857abe676b88f230e1af243656e2d2c0f5ff96f7df89dcefca3d9c529022c39083d30d99db92d79e2aeff2d6d932cdacf269f31d744b0bea982f31d60917b5f93c4b0ae8c202206fd85e8d56125518bbb11758ff254cfcc9",
-                    "signedUrlExpirationTime": 1694710463049
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/64fb81ebf64fd727fe775fbd/assets/64fb852e50f41244c54ad517?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230913%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230913T002957Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=71b85ae019b90b7acb3874cca8ad689c64cecdba11e49f39405d9326ef1e0f27d5acdc64aa8b8290c1cb40780367552ffb291ccaa4df89e7d6c5cc611f40fbed86d8654faee7df5b75957a2ebe189cc45a30b8aa64361a257b6c1d4df05ce7eb433f6704bcfb2fe9c3a1d2e43d48825a672e8cbea6a7ef5c74562d1471ee1c5b04e3a3309252f842fcfe21fed7328b491535c02b63f1f6e9c16bb6659a8d3ecef00e70cb30097ec0bfbe6333f4a1fab2d9afa3efac2c6e42448cf7d27f8941233f1334821f6df53ed2a1531fc9c268f9ce7fcb171d9aed1899cdf974a4cac81413931bf05041927f3ae89c8a00eb04e8512e9a227e564c91b99c1d6f4f41fc02",
+                    "signedUrlExpirationTime": 1694737797323
+                },
+                "6501035cb1bdfd83d5c912c4": {
+                    "externalStorageType": "GCS",
+                    "_id": "6501035cb1bdfd83d5c912c4",
+                    "size": "6336",
+                    "mimetype": "audio/mpeg",
+                    "encoding": "7bit",
+                    "originalname": "ttsmaker-file-2023-9-12-20-33-29.mp3",
+                    "backendURI": "/project/650100c61c5abf43e06a5c36/getasset/6501035cb1bdfd83d5c912c4",
+                    "name": "ttsmaker-file-2023-9-12-20-33-29.mp3",
+                    "externalName": "users/64f7c3e8862c52268e7735f4/projects/650100c61c5abf43e06a5c36/assets/6501035cb1bdfd83d5c912c4",
+                    "createdAt": "2023-09-13T00:33:33.270Z",
+                    "updatedAt": "2023-09-13T00:33:33.270Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f7c3e8862c52268e7735f4/projects/650100c61c5abf43e06a5c36/assets/6501035cb1bdfd83d5c912c4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230913%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230913T003333Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=03937166b717353da76ff661e0878e2b5ce5362e423296c3e236bbdb06b167e2617d19de6f49bb7a20cdb7d2ec4b531a5593d7af024c7dfb2664cdf84bf0f7add145b267446b536935f89a1e031b1058559c0a03790c3731bdbcf2d240730788256f94005c375f7ea73cadabcdbc3c7d34c3c24fe1416d07324021d5ad93447d877c93122ef9973b93ea6c0569fed997cf03e2398effa412f970d659a90a5e654c393f86d70a238b5c426b94a14ccce61014c2d3e4376c43358f8bdce25e74bc8ba4120aaf92d4d67a3ac4f9758b01bf6b98b32f0118a143cf79a98b3476dc09a66f04b889b2412760ad4b23e453f26bd396bda21a6ac90a05c086a001a5a15f",
+                    "signedUrlExpirationTime": 1694738013344
                 }
             },
             "backendUpgradeVersion": 21,
@@ -115,7 +131,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +180,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
